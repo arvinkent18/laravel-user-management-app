@@ -1,5 +1,5 @@
 ## Laravel User Management App
-> Laravel 6.2 User Management App is an example of a Laravel application which uses AdminLTE combine with VueJS
+> Laravel 6.2 User Management App is use for managing users from the back end which uses AdminLTE combine with VueJS
 
 ``` bash
 # Install Dependencies
